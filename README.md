@@ -1,4 +1,4 @@
-# Graph-Based SVR
+# Node Regression using Graph-Based SVM Kernels
 This repository contains a machine learning project that predicts node values in a graph using graph-based kernels and support vector machine (SVM) regression. The project includes experiments with two datasets and utilizes the Propagation algorithm and a multi-output SVM regressor.
 
 This project presents a methodology using graph-based kernels and the support vector machine (SVM) technique to predict node values in a graph. We utilize the Propagation algorithm for kernel computation and a multi-output SVM regressor to generate node labels. We conduct experiments with two datasets: Thessaloniki's controlled parking system violation data to predict parking violation rates of sectors, and the chickenpox dataset to predict disease outbreaks. We also conduct additional experiments using common SVR kernel methods and the K-Nearest Neighbor algorithm for both datasets.
