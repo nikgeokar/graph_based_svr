@@ -11,3 +11,5 @@ We use the graph kernels. They are based on the idea of propagating label inform
 
 
 At this point we would like to focus on the kernel computation function 𝑓 (𝑥,𝑦). We replace the default function by applying a convolution-based approach. Where x, and y are the vectors produced from LSH for each graph. We treated the vectors as signals and calculated the convolution between them. Then we calculated the convolution product, which is only given for points where the signals overlap completely.
+
+To access further details and information, please refer to the report file located within this repository (report.pdf).
